@@ -8,4 +8,6 @@ JavaScript, CSS, HTML, Git, Angular, RxJs
 
 ### Contacts
 
-<artemnazarikov@gmail.com>
+<a href="mailto:artemnazarikov@gmail.com">
+  <img src="https://image.flaticon.com/icons/svg/520/520699.svg">
+</a>
