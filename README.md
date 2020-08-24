@@ -8,10 +8,9 @@ JavaScript, CSS, HTML, Git, Angular, RxJs
 
 ### Contacts
 
-<a href="mailto:artemnazarikov@gmail.com">
-  <img src="https://image.flaticon.com/icons/svg/520/520699.svg" width="25px">
-</a>
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 
-<a href="https://www.linkedin.com/in/artyom-nazarikov/">
-  <img src="https://image.flaticon.com/icons/svg/1051/1051333.svg" width="25px">
-</a>
+
+[linkedin]: https://www.linkedin.com/in/artyom-nazarikov
+[email]: mailto:artemnazarikov@gmail.com
