@@ -4,7 +4,7 @@ I'm a frontend developer. Currently i'm looking for a job. Drop me a PM, if you 
 
 ### Tech Stack
 
-JavaScript, CSS, HTML, GIT, Angular, RxJs
+JavaScript, CSS, HTML, Git, Angular, RxJs
 
 ### Contacts
 
