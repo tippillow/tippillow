@@ -1,6 +1,6 @@
 ### Hi there 👋! My name is Artyom Nazarikov
 
-I'm a frontend developer. Currently i'm looking for a job. Нou can see my projects here.
+I'm a frontend developer. Currently i'm looking for a job. You can see my projects here.
 
 ### Tech Stack
 
