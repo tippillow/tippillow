@@ -11,3 +11,7 @@ JavaScript, CSS, HTML, Git, Angular, RxJs
 <a href="mailto:artemnazarikov@gmail.com">
   <img src="https://image.flaticon.com/icons/svg/520/520699.svg" width="25px">
 </a>
+
+<a href="https://www.linkedin.com/in/artyom-nazarikov/">
+  <img src="https://image.flaticon.com/icons/svg/1051/1051333.svg" width="25px">
+</a>
